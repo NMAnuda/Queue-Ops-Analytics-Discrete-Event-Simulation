@@ -51,8 +51,7 @@ queue-sim-analytics/
     generate_data.py
     build_arrival_rates.py
     simulate.py
-    scenarios.py
-  dashboard/        # Put Power BI screenshots here
+    scenarios.py    
   report/
     insights.md     # Short findings + recommendation
   README.md
